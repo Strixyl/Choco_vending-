@@ -24,3 +24,5 @@
 1. Ensure you have the required text files (`chocoName.txt`, `chocoPrice.txt`, `chocoStock.txt`, `chocoCode.txt`) in the same directory as the `Test.cpp` file.
 2. Compile the `Test.cpp` file using a C++ compiler:
  
+## extra notes
+password:42069
